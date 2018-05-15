@@ -1,4 +1,4 @@
-package com.zxt;
+package cn.re0marb1e;
 
 import java.util.*;
 
@@ -193,7 +193,6 @@ public class Maze {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Maze maze = new Maze();
 		maze.initMaze();
 		maze.startMaze(maze.start);

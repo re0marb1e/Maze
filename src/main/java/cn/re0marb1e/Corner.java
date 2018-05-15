@@ -1,4 +1,4 @@
-package com.zxt;
+package cn.re0marb1e;
 
 import java.util.ArrayList;
 
@@ -9,7 +9,6 @@ public class Corner {
 
 	// Constructor
 	public Corner(int id) {
-		// TODO Auto-generated constructor stub
 		this.id = id;
 	}
 
